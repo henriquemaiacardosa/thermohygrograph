@@ -5,8 +5,8 @@
 #include <SPIFFS.h>
 #include <ESP32Servo.h>
 
-const char* ssid = "SANDRO";
-const char* password = "13111968";
+const char* ssid = "";
+const char* password = "";
 
 String apiKey = "231YOGNRJRRG6AS7";  
 const char* serverTS = "http://api.thingspeak.com/update";
